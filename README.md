@@ -37,7 +37,7 @@ The goal of this project was to set up a secure cloud server using Amazon EC2 an
 
 ## 🎥 Assignment Video
 Watch the full video walkthrough of my setup and project explanation:  
-[Watch the Assignment Video](https://rohitwebsite.com/videos/window%20screen%20record%20command%20-%20Google%20Search%20-%20Google%20Chrome%202025-04-03%2014-01-03.mp4)
+[Watch the Assignment Video](https://rohitwebsite.com/videos/Assignment%20Video%20Explanation.mp4)
 
 ---
 
